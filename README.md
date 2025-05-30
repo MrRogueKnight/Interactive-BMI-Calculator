@@ -45,7 +45,7 @@ This is a client-side web application, requiring no complex backend setup or dat
 
 ### 🤝 Contributing:
 
-Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/MrRogueKnight/Interactive-BMI-Calculator/issues).
+Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://github.com/MrRogueKnight/Interactive-BMI-Calculator/issues).
 
 To contribute:
 
